@@ -1,0 +1,15 @@
+.head-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+.product-cart{
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+}
+.head-para{
+    margin-right: 20px;
+}
